@@ -1,0 +1,16 @@
+*~
+*.bak
+*.swp
+
+*.aps
+*.opensdf
+*.sdf
+*.suo
+*.user
+.vs/
+
+bin/
+ipch/
+obj/
+
+Generated\ Files/
